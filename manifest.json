@@ -1,0 +1,11 @@
+{
+  "visualization": {
+    "id": "gauge_chart",
+    "label": "Gauge Chart",
+    "description": "A customizable gauge chart for Looker Studio.",
+    "icon": "gauge", 
+    "version": "1.0.0",
+    "js": "https://birch-please.github.io/viz-radial_gauge-marketplace/dist/viz.js",
+    "css": "https://birch-please.github.io/viz-radial_gauge-marketplace/dist/viz.css"
+  }
+}
